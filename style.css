@@ -1,0 +1,56 @@
+.test_2{
+	font-family: 'courier-New',courier,monospace;
+	font-size: 100px;
+}
+.test_2{
+	font-family: 'courier-New',courier,monospace;
+	font-size: 200px;
+}
+.test_2{
+	font-family:'sans-serif',italic,bold,serif;
+	font-size: 40px;
+}
+.img_1{
+	background-image: url('degamie_sign_1.jpg');
+	max-width: 100px;
+	max-height: 20px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	border: 10px solid color: dimgrey;
+	background-position: 100px 250px;
+}
+h1{
+	color: blue;
+	font-size: 20px;
+	font-style: italic;
+	font-display: optional;
+	font-family: initial;
+}
+h2{
+	color: yellow;
+}
+h3{
+	align-content: right;
+	max-height: 30px;
+	min-height: 20px;
+	max-width: 10px;
+	min-width:20px ;
+	color:yellow;
+}
+p{
+	color: yellow;
+	font-family: fantasy;
+	font-size: 14px;
+	font-style: bold;
+	font-stretch: semi-condensed;
+}
+img{
+	max-width: 100px;
+	min-width: 50px;
+	max-height: 200px;
+	min-height: 100px;
+}
+body {
+	background-color: indianred;
+	background-image: url('degamie_sign_1.jpg');
+	
