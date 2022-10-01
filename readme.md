@@ -1,1 +1,0 @@
-degamie.html
