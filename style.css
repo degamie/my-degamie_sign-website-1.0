@@ -11,7 +11,7 @@
 	font-size: 40px;
 }
 .img_1{
-	background-image: url('degamie_sign_1.jpg');
+	background-image: url(images/degamie_sign_1.png);
 	max-width: 100px;
 	max-height: 20px;
 	background-repeat: no-repeat;
@@ -51,6 +51,10 @@ img{
 	min-height: 100px;
 }
 body {
-	background-color: indianred;
-	background-image: url('degamie_sign_1.jpg');
-	
+	background-color: indianred
+}
+.header{
+	background-image: url(images/degamie_sign_1.png);
+	height: 100vh;
+	width: 100%;
+}
