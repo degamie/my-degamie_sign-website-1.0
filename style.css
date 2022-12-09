@@ -11,7 +11,7 @@
 	font-size: 40px;
 }
 .img_1{
-	background-image: url(images/degamie_sign_1.png);
+	background-image: url(Downloads/degamie_sign_1.png);
 	max-width: 100px;
 	max-height: 20px;
 	background-repeat: no-repeat;
@@ -25,6 +25,9 @@ h1{
 	font-style: italic;
 	font-display: optional;
 	font-family: initial;
+	text-decoration: underline;
+	text-transform: capitalize;
+	*/*text-transform: ;/*/*/
 }
 h2{
 	color: yellow;
@@ -35,10 +38,10 @@ h3{
 	min-height: 20px;
 	max-width: 10px;
 	min-width:20px ;
-	color:yellow;
+	color: orange;
 }
 p{
-	color: yellow;
+	color:yellow;
 	font-family: fantasy;
 	font-size: 14px;
 	font-style: bold;
@@ -51,10 +54,16 @@ img{
 	min-height: 100px;
 }
 body {
-	background-color: indianred
+	background-color: indianred;
 }
 .header{
 	background-image: url(images/degamie_sign_1.png);
 	height: 100vh;
 	width: 100%;
+}
+d2{
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-decoration-color: aqua;
+	text-shadow: 20px;
 }
