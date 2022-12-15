@@ -11,7 +11,7 @@
 	font-size: 40px;
 }
 .img_1{
-	background-image: url(Downloads/degamie_sign_1.png);
+	background-image: url(images/degamie_sign_1.png);
 	max-width: 100px;
 	max-height: 20px;
 	background-repeat: no-repeat;
@@ -66,4 +66,16 @@ d2{
 	text-transform: uppercase;
 	text-decoration-color: aqua;
 	text-shadow: 20px;
+}
+a{
+	font-size: 20px;
+	font-style: italic;
+	font-family: sans-serif;
+	font-display: swap;
+	font-stretch: expanded;
+	font-weight: 20px;
+	font-variant-east-asian: simplified;
+	font-display: block;
+	<*/*//color-rendering: optimizeSpeed;
+	border-color: steelblue;*/*/*>
 }
